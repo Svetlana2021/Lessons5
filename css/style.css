@@ -40,6 +40,7 @@ html {
 	font-size: 16px; /* по умолчанию */
 }
 body {
+	font-family: "Fira+Sans+Condensed", sans-serif;
 	line-height: 1;
 }
 .wrapper {

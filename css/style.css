@@ -1,4 +1,5 @@
-/* &display=swap&subset=cyrillic-ext */
+
+@import url("https://fonts.googleapis.com/css?family=Fira+Sans+Condensed:regular,italic,900,display=swap&subset=cyrillic-ext");
 
 /* ОБНУЛЕНИЕ СТИЛЕЙ */
 *,
